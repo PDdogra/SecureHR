@@ -3,7 +3,7 @@
 Decided in Phase 0, Task 0.3. Do not change without an explicit scope review.
 
 ## Backend
-- Python 3.12.x
+- Python 3.11.x
 - FastAPI 0.115.x
 - Uvicorn 0.30.x (ASGI server)
 - SQLAlchemy 2.0.x (ORM)
@@ -11,7 +11,7 @@ Decided in Phase 0, Task 0.3. Do not change without an explicit scope review.
 - Pydantic 2.x (validation, ships with FastAPI)
 
 ## Database
-- PostgreSQL 16.x
+- PostgreSQL 17.x
 
 ## Frontend
 - Node.js 20.x LTS
