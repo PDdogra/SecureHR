@@ -14,7 +14,7 @@ Decided in Phase 0, Task 0.3. Do not change without an explicit scope review.
 - PostgreSQL 17.x
 
 ## Frontend
-- Node.js 20.x LTS
+- Node.js 22.x LTS
 - React 18.x
 - Vite 5.x
 
