@@ -39,10 +39,10 @@
 ## Change Process
 
 Any request to add an out-of-scope item, or expand an in-scope item significantly, must be classified per the Execution Prompt's Rule 25:
-- **CORE** — required for the locked scope, proceed
-- **OPTIONAL** — allowed only after the relevant phase gate has passed
-- **OUT OF SCOPE** — not implemented without an explicit, deliberate scope-review decision recorded here
+ CORE : required for the locked scope, proceed
+ OPTIONAL : allowed only after the relevant phase gate has passed
+ OUT OF SCOPE : not implemented without an explicit, deliberate scope-review decision recorded here
 
 ## Project Balance Target
 
-Maintain approximately 70% application/cloud-security engineering, 30% SOC/detection/IR, per Master Plan §3.
+Maintain approximately 70% application/cloud-security engineering, 30% SOC/detection/IR, per Master Plan Section 3.
